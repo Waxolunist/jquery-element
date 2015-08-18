@@ -1,18 +1,18 @@
-lodash-element
+jquery-element
 ==============
 
-Webcomponent for importing lodash and supporting sharing of lodash, if more than one component uses lodash.
+Webcomponent for importing jQuery and supporting sharing of jQuery, if more than one component uses jQuery. 
 
 ----------
 
 How to use
 ============
 ```
-bower install --save lodash-element
+bower install --save jquery-element
 ```
 
 ```
-<link rel="import" href="../lodash-element/lodash.js.html">
+<link rel="import" href="../jquery-element/jquery.js.html">
 ```
 
 Links
