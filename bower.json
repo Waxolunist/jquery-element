@@ -1,0 +1,32 @@
+{
+  "name": "jquery-element",
+  "version": "1.0.0",
+  "authors": [
+    "Christian Sterzl <christian.sterzl@gmail.com>"
+  ],
+  "description": "Webcomponent for importing jQuery and supporting sharing of jQuery, if more than one component uses jQuery.",
+  "keywords": [
+    "Polymer",
+    "web-components",
+    "webcomponent",
+    "element",
+    "jQuery",
+    "import",
+    "js",
+    "javascript",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2"
+  },
+  "homepage": "https://github.com/Waxolunist/jquery-element",
+  "main": "jquery.js.html"
+}
